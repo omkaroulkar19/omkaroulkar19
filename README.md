@@ -38,5 +38,5 @@ I'm an enthusiastic AI/ML and backend developer with experience in building inte
 
 ## 📫 Let's Connect
 
-Feel free to connect with me on [LinkedIn]( www.linkedin.com/in/omkar19 ) or drop a message!
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/omkar19/ ) or drop a message!
 
