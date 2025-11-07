@@ -27,7 +27,7 @@ I'm an enthusiastic AI/ML and backend developer with experience in building inte
 ## 💼 Experience
 
 **AIML Developer – Compserve Consultants Pvt. Ltd.**  
-*Currently working*
+Sep-2024-Aug2025*
 
 - Developed real-world ML applications with model training and deployment
 - Created REST APIs using FastAPI for ML model integration
