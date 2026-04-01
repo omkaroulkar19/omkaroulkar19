@@ -1,8 +1,12 @@
-# 👋 Hi, I'm Omkar Oulkar
+👋 Hi, I'm Omkar Oulkar
 
-🎓 B.Tech in Computer Science and Engineering (Specialization: AI & ML)  
-📍 D.Y. Patil Agriculture and Technical University | 📅 2021–2025  
-📧 oulkaromkar02@gmail.com | 📞 +91 6360484215  
+🎓 B.Tech in Computer Science (AI & ML)
+📊 Aspiring Data Analyst | Data Science Enthusiast
+📍 Pune, India
+
+📧 oulkaromkar02@gmail.com
+🔗 LinkedIn
+💻 GitHub
 
 
 ---
